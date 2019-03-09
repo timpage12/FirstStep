@@ -1,5 +1,7 @@
-print("Hello World")
-print("Hello Everybody")
-print("Hello")
-print("Hello my Friend")
-print("Hello and Buy")
+print("Hello World;")
+print("Hello Everybody;")
+print("Hello;")
+print("Hello my Friend;")
+print("Hello and Buy;")
+
+
